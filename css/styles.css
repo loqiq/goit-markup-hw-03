@@ -222,7 +222,7 @@ color: var(--color-black);
     letter-spacing: 0.03em;
     color: var(--color-grey);
     width: 270px;
-    margin-bottom: 0;
+
 }
 
 .activity-section{
@@ -335,10 +335,7 @@ letter-spacing: 0.03em;
 color: var(--color-grey);
 text-align: center;
 }
-.btn-section{
-    padding-top: 94px;
-    padding-bottom: 50px;
-}
+
 .btn-list{
     list-style: none;
     display: flex;
